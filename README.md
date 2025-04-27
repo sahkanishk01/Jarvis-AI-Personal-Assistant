@@ -2,7 +2,7 @@
 
 Welcome to **Jarvis AI** — your personal voice-controlled virtual assistant, inspired by Iron Man's J.A.R.V.I.S!
 
-Jarvis AI listens to your commands and performs tasks like searching information, opening apps, speaking to you, and managing your system — all hands-free.
+Jarvis AI listens to your commands and performs tasks like searching information, opening apps, speaking to you, and managing your system all hands-free.
 
 ---
 
