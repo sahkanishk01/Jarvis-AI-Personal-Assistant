@@ -29,7 +29,9 @@ Jarvis AI listens to your commands and performs tasks like searching information
 
 ---
 
-Let's see such output snippets
+## Let's see such output snippets
+
+![Screenshot (193)](https://github.com/user-attachments/assets/e44e5f93-081e-402a-b48e-f4c09b2604ff)
 ![Screenshot (195)](https://github.com/user-attachments/assets/16fc4e1a-09e0-49b3-996b-1cfd2cb006e6)
 ![Screenshot (197)](https://github.com/user-attachments/assets/438deec4-53e3-4fd1-bcc1-f24dbed20bc6)
 
