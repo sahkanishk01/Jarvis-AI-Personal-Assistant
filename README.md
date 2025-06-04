@@ -77,6 +77,11 @@ Multi-language support
 
 Voice Authentication Security
 
+Let's see such output snippets
+![Screenshot (195)](https://github.com/user-attachments/assets/16fc4e1a-09e0-49b3-996b-1cfd2cb006e6)
+![Screenshot (197)](https://github.com/user-attachments/assets/438deec4-53e3-4fd1-bcc1-f24dbed20bc6)
+
+
 🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repository, create a feature branch, and submit a pull request.
